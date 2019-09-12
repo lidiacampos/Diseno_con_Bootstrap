@@ -1,0 +1,9 @@
+Se describen los colores utilizados en la página:
+o	#44679f y #fff para los encabezados.
+o	#2d2e2e color de fondo para id=”formulario”
+o	#3c3d41 color de fondo para etiqueta footer
+o	#333333 color de fondo para class=”copyright”
+Se debe crear una modificación de color  para los enlaces en el momento que el ratón se sitúa sobre ellos, pudiendo si se desea generar también algún otro cambio visual.	
+Se debe crear una modificación de color para los iconos fontawesome, de las secciones id=”características” y de los incluidos en la etiqueta footer.
+Como tipografías deberán emplearse exclusivamente: Oxygen para el cuerpo   y Baloo Tamma, utilizada para el nombre Residencial Camino Viejo, en la barra de navegación, clase principal y etiqueta footer, cuyos archivos se encuentran en google fonts. 
+

@@ -1,0 +1,83 @@
+body {
+	font-family: 'Oxygen', sans-serif;
+}
+
+body h2 {
+	color: #44679f;
+	margin: 50px;
+	text-align: center;
+}
+
+body h3 {
+	color: #44679f;
+}
+
+body h6 {
+	color: #44679f;
+}
+
+header {	
+	background-image: url(../img/Residencial_Molino_Viejo_fachada.png);
+	background-position: center; 
+	color: #fff;
+	font-family: 'Baloo Tamma', cursive;
+	height: 400px;
+	padding: 130px 0;
+}
+
+.cabecera{
+	background-color: rgba(0, 0, 0, 0.3);
+	text-align: center;  
+	padding: 40px;
+}
+
+.promocion {
+	margin: 50px;
+	padding: 0 50px 0 50px;
+}
+
+.viviendas{
+	padding: 0 50px 0 50px;
+
+}
+
+i {
+	color: #333;
+}
+i:hover{
+	color: #44679f;
+}
+
+.familia {
+	background-image: url(../img/happy-family.jpg);
+	background-attachment: fixed;
+	color: #fff;
+	padding: 100px 0 100px 0;
+	text-align: center;
+}
+
+.imagenes {
+	padding: 0 50px 0 50px;
+}
+
+article {
+	background-color: #44679f;
+	color: #fff; 
+	text-align: center;
+	padding: 10px 50px 20px 50px;
+	margin: 0;
+}
+
+article h2 {
+	color: #fff; 	
+}
+
+footer {
+	background-color: #2d2e2e;
+	color: #fff; 
+	padding: 15px 50px 15px 50px;
+}
+
+footer h2 {	
+	color: #fff; 
+}
